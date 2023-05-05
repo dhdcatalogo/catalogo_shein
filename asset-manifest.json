@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/catalogo_shein/static/css/main.a00e1773.css",
+    "main.js": "/catalogo_shein/static/js/main.447c80cb.js",
+    "static/js/787.14d4f9d7.chunk.js": "/catalogo_shein/static/js/787.14d4f9d7.chunk.js",
+    "index.html": "/catalogo_shein/index.html",
+    "main.a00e1773.css.map": "/catalogo_shein/static/css/main.a00e1773.css.map",
+    "main.447c80cb.js.map": "/catalogo_shein/static/js/main.447c80cb.js.map",
+    "787.14d4f9d7.chunk.js.map": "/catalogo_shein/static/js/787.14d4f9d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a00e1773.css",
+    "static/js/main.447c80cb.js"
+  ]
+}
